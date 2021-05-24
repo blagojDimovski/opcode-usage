@@ -1,0 +1,1 @@
+{"PUSH": 54, "DUP": 44, "CALLER": 1, "EQ": 2, "ISZERO": 12, "JUMPI": 8, "CALLDATASIZE": 1, "MSTORE": 18, "NOT": 2, "CALLDATALOAD": 1, "GAS": 7, "CALL": 6, "REVERT": 2, "JUMPDEST": 8, "POP": 11, "STOP": 4, "AND": 1, "ADD": 1, "SDIV": 1, "SGT": 1, "ADDRESS": 1, "SWAP": 1, "MLOAD": 1, "TIMESTAMP": 1}
